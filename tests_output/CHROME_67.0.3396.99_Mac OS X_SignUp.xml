@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="SignUp"
+    errors="0" failures="1" hostname="" id="" package="SignUp" skipped="0"
+    tests="1" time="2.367" timestamp="Sun, 22 Jul 2018 17:15:24 GMT">
+  
+    <testcase name="Sign Up" classname="SignUp" time="2.367" assertions="1">  <failure message="Testing if the URL contains &#34;https://cards.devclock.com/login&#34;.">    at Object.Sign Up (/Users/vitaliymatiyev/DevM/Flashcards/tests/SignUp.js:16:28)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
